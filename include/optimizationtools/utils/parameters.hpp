@@ -25,6 +25,9 @@ struct Parameters
     /** Timer. */
     Timer timer;
 
+    /** Write JSON output. */
+    bool write_json_output = false;
+
     /*
      * Messages
      */
