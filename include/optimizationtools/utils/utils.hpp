@@ -4,6 +4,7 @@
 #include <random>
 #include <sstream>
 #include <iterator>
+#include <cctype>
 
 namespace optimizationtools
 {
